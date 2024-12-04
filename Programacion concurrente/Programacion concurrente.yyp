@@ -36,7 +36,7 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Spr_Adam","path":"sprites/Spr_Adam/Spr_Adam.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Spr_enemy","path":"sprites/Spr_enemy/Spr_enemy.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
